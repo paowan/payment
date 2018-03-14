@@ -1,0 +1,19 @@
+{
+    "name": "hepm/php_helpers",
+    "description": "php payment library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ok_fish",
+            "email": "306863208@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hepm\\":"src/"
+        }
+    }
+}
